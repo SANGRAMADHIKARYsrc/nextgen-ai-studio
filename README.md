@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # ✨ NextGen AI Studio
 
@@ -22,6 +22,7 @@
 ## 📋 Table of Contents
 
 - [About](#-about)
+- [🤖 AI-Assisted Development](#-ai-assisted-development)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Architecture](#-architecture)
@@ -48,6 +49,18 @@ Unlike typical AI tools that require multiple subscriptions and constant tab-swi
 | ❌ Constant tab switching | ✅ Powered by Gemini AI |
 | ❌ Inconsistent experience | ✅ Premium UI, zero ads |
 | ❌ Costs $49+/month | ✅ 100% free forever |
+
+---
+
+## 🤖 AI-Assisted Development
+
+This repository is **AI-human hybrid built**. It was developed using cutting-edge AI pair programming agents (including Gemini and Claude) collaborating directly with the developer. 
+
+To maintain this interactive environment, the repository includes system files used by the AI coding assistants:
+- [AGENTS.md](file:///c:/Users/ASUS/OneDrive/Desktop/Antigravity/nextgen-ai-studio/AGENTS.md) - Instructions and framework rules for AI developer agents.
+- [CLAUDE.md](file:///c:/Users/ASUS/OneDrive/Desktop/Antigravity/nextgen-ai-studio/CLAUDE.md) - Context mapping file for AI systems.
+
+These files help AI agents understand the codebase architecture instantly, allowing for rapid feature development and bug fixes.
 
 ---
 
@@ -171,7 +184,6 @@ Unlike typical AI tools that require multiple subscriptions and constant tab-swi
 
 ```bash
 npm run build
-npm start
 ```
 
 ---
@@ -332,7 +344,6 @@ Built by [**Sangram Adhikary**](https://github.com/SANGRAMADHIKARYsrc) with ❤�
 
 ### ⭐ Star this repo if you find it useful!
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/nextgen-ai-studio?style=social)](../../stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/SANGRAMADHIKARYsrc/nextgen-ai-studio?style=social)](../../stargazers)
 
 </div>
-]]>
