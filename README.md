@@ -54,13 +54,7 @@ Unlike typical AI tools that require multiple subscriptions and constant tab-swi
 
 ## 🤖 AI-Assisted Development
 
-This repository is **AI-human hybrid built**. It was developed using cutting-edge AI pair programming agents (including Gemini and Claude) collaborating directly with the developer. 
-
-To maintain this interactive environment, the repository includes system files used by the AI coding assistants:
-- [AGENTS.md](file:///c:/Users/ASUS/OneDrive/Desktop/Antigravity/nextgen-ai-studio/AGENTS.md) - Instructions and framework rules for AI developer agents.
-- [CLAUDE.md](file:///c:/Users/ASUS/OneDrive/Desktop/Antigravity/nextgen-ai-studio/CLAUDE.md) - Context mapping file for AI systems.
-
-These files help AI agents understand the codebase architecture instantly, allowing for rapid feature development and bug fixes.
+This repository is **AI-human hybrid built**. It was developed using cutting-edge AI pair programming agents collaborating directly with the developer to create a clean, modern, and high-performance product.
 
 ---
 
